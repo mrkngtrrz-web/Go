@@ -1,0 +1,6 @@
+{
+  "name": "FlowFund — Student Business Cash-Flow & Envelope Ledger",
+  "description": "Mobile-first cash-flow management app using virtual Inventory, Savings, and Profit pouches, automated 50/30/20 splits, and real-time Days of Survival runway tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
